@@ -1,0 +1,23 @@
+{
+  "name": "vaccin-availability-check",
+  "version": "1.0.0",
+  "description": "1. install node js if you dont have already, https://nodejs.org/en/download/ 2. git clone https://github.com/miralbhalani3/vaccin-availability-check.git 3. npm install 4. node index.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miralbhalani3/vaccin-availability-check.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miralbhalani3/vaccin-availability-check/issues"
+  },
+  "homepage": "https://github.com/miralbhalani3/vaccin-availability-check#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "play-sound": "^1.1.3"
+  }
+}
