@@ -1,5 +1,6 @@
 # vaccin-availability-check
 
+Feel free to share it.
 
 1. install node js if you dont have already, https://nodejs.org/en/download/
 2. git clone https://github.com/miralbhalani3/vaccin-availability-check.git
