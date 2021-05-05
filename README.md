@@ -2,8 +2,9 @@
 
 1. install node js if you dont have already, https://nodejs.org/en/download/
 2. git clone https://github.com/miralbhalani3/vaccin-availability-check.git
-3. npm install
-4. node index.js
+3. cd vaccin-availability-check
+4. npm install
+5. node index.js
 
 
 It will do a bippp... sound if any vaccine available in ahmedabad, and will give following type of output in console.
