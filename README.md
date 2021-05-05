@@ -7,6 +7,7 @@
 
 
 It will do a bippp... sound if any vaccine available in ahmedabad, and will give following type of output in console.
+```
 -
 -
 -----------
@@ -17,6 +18,7 @@ Capacity 1
 -----------
 -
 -
+```
 
 After this, you may go to cowin site, look at the calendar and book the appointmen.
 
