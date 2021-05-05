@@ -1,6 +1,5 @@
 # vaccin-availability-check
 
-NOTE: Right now it is for 18+ only.
 
 1. install node js if you dont have already, https://nodejs.org/en/download/
 2. git clone https://github.com/miralbhalani3/vaccin-availability-check.git
