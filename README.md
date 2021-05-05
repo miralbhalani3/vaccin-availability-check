@@ -23,4 +23,5 @@ Capacity 1
 After this, you may go to cowin site, look at the calendar and book the appointmen.
 
 This project is created by usin public cowin APIs, https://apisetu.gov.in/public/api/cowin
+
 NEWS: https://indianexpress.com/article/explained/explained-will-cowin-api-make-it-easier-to-get-vaccine-appointments-%EF%BB%BF7300376/
